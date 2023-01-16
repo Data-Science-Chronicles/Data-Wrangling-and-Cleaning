@@ -7,14 +7,14 @@ Welcome to the Data Wrangling and Cleaning section of Data Science Chronicles. T
 * Steps in Data Wrangling and Cleaning
 * Data Cleaning Techniques
 * Data Transformation with R and Python
-* dplyr and pandas
-* tidyr and pandas reshaping functions
+* * dplyr and pandas
+* * tidyr and pandas reshaping functions
 * String Manipulation with R and Python
-* stringr and Python's string functions
+* * stringr and Python's string functions
 * Handling Dates and Times with R and Python
-* lubridate and datetime library
+* *  lubridate and datetime library
 * Advanced Data Wrangling with R and Python
-* data.table and pandas
+* * data.table and pandas
 * Case Studies and Examples
 ## Introduction to Data Wrangling
  Data wrangling is the process of transforming and mapping data from one "raw" data form into another format, with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics and visualization.
