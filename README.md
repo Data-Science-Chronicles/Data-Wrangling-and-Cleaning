@@ -31,7 +31,7 @@ Identifying and handling missing data: Missing data can be identified by looking
 * Data validation: This step ensure that the data is accurate and consistent by checking for errors, missing values and  inconsistencies such as invalid data types or values that fall outside of expected ranges
 * Data integration: This involves combining data from multiple sources, which can be done through techniques such as data mapping and data matching
 * Data Export: The final step is to export the cleaned data in a format that can be used for analysis.
-** Data export refers to the process of saving the cleaned and transformed data in a format that can be used for analysis. This typically involves saving the data to a file, such as a CSV or Excel file, or exporting it to a database or data warehouse. The choice of format will depend on the specific requirements of the analysis and the tools that will be used to analyze the data.
+* * Data export refers to the process of saving the cleaned and transformed data in a format that can be used for analysis. This typically involves saving the data to a file, such as a CSV or Excel file, or exporting it to a database or data warehouse. The choice of format will depend on the specific requirements of the analysis and the tools that will be used to analyze the data.
 
 #### Note: 
 Using visual data cleaning and wrangling tools such as **OpenRefine**, **Trifacta**, and **Talend**. These tools provide a user-friendly interface for exploring and cleaning data, and can be useful for dealing with large or complex datasets.
