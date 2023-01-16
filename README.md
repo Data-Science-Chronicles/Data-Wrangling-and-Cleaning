@@ -4,6 +4,7 @@ Welcome to the Data Wrangling and Cleaning section of Data Science Chronicles. T
 
 ## Table of Contents
 * Introduction to Data Wrangling
+* Steps in Data Wrangling and Cleaning
 * Data Cleaning Techniques
 * Data Transformation with R and Python
 * dplyr and pandas
@@ -17,6 +18,17 @@ Welcome to the Data Wrangling and Cleaning section of Data Science Chronicles. T
 * Case Studies and Examples
 ## Introduction to Data Wrangling
  Data wrangling is the process of transforming and mapping data from one "raw" data form into another format, with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics and visualization.
+ 
+## Steps in Data Wrangling and Cleaning
+Identifying and handling missing data: Missing data can be identified by looking for null or empty values in the dataset. Once identified, missing data can be handled by either removing the data or imputing (filling in) the missing values.
+
+* Standardizing and consolidating data: Data from multiple sources may be in different formats and may need to be standardized and consolidated into a single dataset. This can involve converting data into a consistent format (e.g. converting all dates into a standard format) and combining data from multiple sources.
+
+* Transforming data: Data may need to be transformed in order to make it usable for analysis. This can include normalizing data (e.g. scaling data so that it falls within a certain range) and creating new features or variables from existing data.
+
+* Removing outliers: Outliers are data points that are far away from the other data points and may be affecting the analysis negatively. Identifying and removing outliers is crucial for producing accurate and reliable insights from the data.
+
+* Data validation: This step ensure that the data is accurate and consistent by checking for errors, inconsistencies and missing values.
 
 ## Data Cleaning Techniques
 Data cleaning is the process of identifying and correcting errors, inconsistencies, and missing data in a dataset. This section provides an overview of common data cleaning techniques such as handling missing values, dealing with outliers, and removing duplicates using both R and Python.
