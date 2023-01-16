@@ -24,11 +24,15 @@ Identifying and handling missing data: Missing data can be identified by looking
 
 * Standardizing and consolidating data: Data from multiple sources may be in different formats and may need to be standardized and consolidated into a single dataset. This can involve converting data into a consistent format (e.g. converting all dates into a standard format) and combining data from multiple sources.
 
-* Transforming data: Data may need to be transformed in order to make it usable for analysis. This can include normalizing data (e.g. scaling data so that it falls within a certain range) and creating new features or variables from existing data.
+* Transforming data: Data may need to be transformed in order to make it usable for analysis. This can include normalizing data (e.g. scaling data so that it falls within a certain range) and creating new features or variables from existing data. Here we also perform enconding.
 
 * Removing outliers: Outliers are data points that are far away from the other data points and may be affecting the analysis negatively. Identifying and removing outliers is crucial for producing accurate and reliable insights from the data.
 
-* Data validation: This step ensure that the data is accurate and consistent by checking for errors, inconsistencies and missing values.
+* Data validation: This step ensure that the data is accurate and consistent by checking for errors, missing values and  inconsistencies such as invalid data types or values that fall outside of expected ranges
+* Data integration: This involves combining data from multiple sources, which can be done through techniques such as data mapping and data matching
+
+#### Note: 
+Using visual data cleaning and wrangling tools such as **OpenRefine**, **Trifacta**, and **Talend**. These tools provide a user-friendly interface for exploring and cleaning data, and can be useful for dealing with large or complex datasets.
 
 ## Data Cleaning Techniques
 Data cleaning is the process of identifying and correcting errors, inconsistencies, and missing data in a dataset. This section provides an overview of common data cleaning techniques such as handling missing values, dealing with outliers, and removing duplicates using both R and Python.
